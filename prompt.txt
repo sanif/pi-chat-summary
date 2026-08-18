@@ -1,0 +1,7 @@
+## Recap
+Write one or two concise sentences explaining the user's goal and what has been completed so far.
+Use plain, non-technical language.
+
+## Bullet points
+Write 1 to {{maximum_bullets}} information-dense points covering relevant behavior, progress, outcomes, open issues, next steps, and decisions that affect scope.
+Preserve all still-relevant details rather than summarizing only the newest turn, and avoid repetition.
